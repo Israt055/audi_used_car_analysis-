@@ -1,7 +1,6 @@
 # audi_used_car_analysis
 
 
-Scatter plot, Histograms, Distribution, and ECDF plot
 # dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
 # Goal of this project :
 Learn Data visualization and predict the price of the used cars using Machine learning algorithm
