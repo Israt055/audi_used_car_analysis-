@@ -13,6 +13,10 @@ Learn Data visualization and predict the price of the used cars using Machine le
 4. Find the percentage of unique values and reset the index,rename and round the catergorical variables
 5. Data Analysis using NumPy and Pandas 
 6. Data Visualization: Bar plot, subplots using matplotlib and seaborn
+7. Visualising the dataset using barplots
+8. What are the top 5 selling car models in the dataset?
+9. What's the average selling price of the top 5 selling car models?
+10. What's the total sale of the top 5 selling car models?
 
 # Exploring the data using different data visualization plots:
 
