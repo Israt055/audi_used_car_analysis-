@@ -17,7 +17,10 @@ Learn Data visualization and predict the price of the used cars using Machine le
 8. What are the top 5 selling car models in the dataset?
 9. What's the average selling price of the top 5 selling car models?
 10. What's the total sale of the top 5 selling car models?
-
+11. Separating the numeric features and target variable.
+12. Split the original dataset into the train set (80%) and the test set (20%)
+13.  Perform Linear Regression and Predict the 'Price' from the test set
+14.  Find the RMSE value from the actual test data and the predicted data.
 # Exploring the data using different data visualization plots:
 
 1.Barplot.
