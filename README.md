@@ -21,6 +21,12 @@ Learn Data visualization and predict the price of the used cars using Machine le
 12. Split the original dataset into the train set (80%) and the test set (20%)
 13.  Perform Linear Regression and Predict the 'Price' from the test set
 14.  Find the RMSE value from the actual test data and the predicted data.
+15.  Perform  One-hot Encoding
+16.  Split the original dataset into the train set (80%) and the test set (20%), 
+17.  Perform Linear Regression and Predict the 'Price' from the test set, 
+18.  Show the coefficients of your linear regression model for each feature and show the y-intercept value of linear regression model. (Interpret the coefficients)
+19.  Find the MAE, MAPE, MSE, RMSE, coefficient of determination values from the actual target variable and the predicted target variable.
+20.   Compare the actual and predicted target variable through visualization
 # Exploring the data using different data visualization plots:
 
 1.Barplot.
